@@ -13,8 +13,7 @@ repositories {
 sourceSets {
   main {
     groovy {
-      srcDirs = ['Keywords', 'Include/scripts/groovy']
-      srcDir 'Libs'
+      srcDirs = ['Keywords', 'Libs', 'Test Listeners', 'Include/scripts/groovy']
     }
   }
 }

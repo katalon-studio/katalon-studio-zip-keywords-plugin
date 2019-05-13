@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Sample</name>
+   <name>VerifyZipKeywords</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>1feb0503-de6d-49be-ae0e-808e652db8cf</testCaseGuid>

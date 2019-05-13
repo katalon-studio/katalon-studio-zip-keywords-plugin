@@ -2,17 +2,20 @@
 
 bin
 
-Drivers/*.jar
+Drivers
 
 Reports
 
 Libs
 
-output
-
-!output/.gitkeep
 /build
 
 .classpath
 
 .project
+
+.settings
+
+gradlew
+
+gradlew.bat
